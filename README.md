@@ -30,7 +30,7 @@
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/TPD94/CDRM-Extension.git
+   git clone https://github.com/ex3mpli/CDRM-Extension.git
    Open chrome://extensions/ in your Chromium-based browser.
    
 2. Enable Developer mode (toggle top-right corner).
