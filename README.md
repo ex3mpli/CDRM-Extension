@@ -42,7 +42,7 @@
 ## 🖼️ Screenshot
 
 Here's a preview of the CDRM Extension in action:
-
+<img src="screenshots/sample.png" alt="CDRM Extension Screenshot" style="width:70%;"/>
 ![CDRM Extension Screenshot](Screenshots/sample.png)
 
 ## ⚠️ Disclaimer
