@@ -39,6 +39,12 @@
 
 4. The extension will be activated on supported DRM playback pages.
 
+## 🖼️ Screenshot
+
+Here's a preview of the CDRM Extension in action:
+
+![CDRM Extension Screenshot](Screenshots/sample.png)
+
 ## ⚠️ Disclaimer
 This project is for educational and research purposes only.
 Using it to bypass DRM protections may violate terms of service or local laws.
