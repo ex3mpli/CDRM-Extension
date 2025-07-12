@@ -38,3 +38,12 @@
 3. Click Load unpacked and select the project folder.
 
 4. The extension will be activated on supported DRM playback pages.
+
+## ⚠️ Disclaimer
+This project is for educational and research purposes only.
+Using it to bypass DRM protections may violate terms of service or local laws.
+Use responsibly and at your own risk.
+
+## 🙏 Credits
+Developed and maintained by **[TPD94](https://github.com/TPD94)**.  
+Big thanks to the open-source DRM and reverse-engineering community.
