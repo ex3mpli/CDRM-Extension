@@ -8,7 +8,7 @@
 
 ---
 
-## 🔑 Features
+## Features
 
 - Intercept and modify DRM-related `XMLHttpRequest` and `fetch()` POST calls.
 - Support for Widevine & PlayReady license flows.
@@ -26,7 +26,7 @@
 
 ---
 
-## 🚀 Installation
+## Installation
 
 1. Clone this repository:
    ```bash
@@ -39,17 +39,17 @@
 
 4. The extension will be activated on supported DRM playback pages.
 
-## 🖼️ Screenshot
+## Screenshot
 
 Here's a preview of the CDRM Extension in action:
 
 ![CDRM Extension Screenshot](Screenshots/sample.png)
 
-## ⚠️ Disclaimer
+## Disclaimer
 This project is for educational and research purposes only.
 Using it to bypass DRM protections may violate terms of service or local laws.
 Use responsibly and at your own risk.
 
-## 🙏 Credits
+## Credits
 Developed and maintained by **[TPD94](https://github.com/TPD94)**.  
 Big thanks to the open-source DRM and reverse-engineering community.
